@@ -102,7 +102,7 @@ int main(void)
 
     }
     printf("Results:\n");
-    printf("  %d samples were examined where each sample represents one \"Monty Hall\" cycle\n", sampleSize);
+    printf("  %d samples were examined where each sample represents one \"Monty Hall cycle\"\n", sampleSize);
     printf("+-------+----------+-----------+\n");
     printf("|       | Switched |    Kept   |\n");
     printf("+-------+----------+-----------+\n");
