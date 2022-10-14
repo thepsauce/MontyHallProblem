@@ -5,7 +5,7 @@
 // Statistically proving that you have a higher chance of winning when you switch the door!
 //
 // What the following program reveals is that your chances are ~33% of winning when not switching
-// AND twice as high ~66% when not switching!
+// AND twice as high ~66% when switching!
 
 int main(void)
 {
